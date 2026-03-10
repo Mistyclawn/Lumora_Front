@@ -338,3 +338,23 @@ serve -s build -l 3000
 **버전**: v1.0.0 (프로덕션 릴리스)
 
 > 💝 이 프로젝트는 디지털 추모 서비스의 새로운 패러다임을 제시하며, 유가족들에게 따뜻한 위로와 편의를 제공하는 것을 목표로 개발되었습니다.
+
+
+---
+
+## 📸 스크린샷
+
+| | |
+|:---:|:---:|
+| <img alt="1유가족메인" src="https://github.com/user-attachments/assets/7bef572c-f98a-4c63-ba06-76ed87d7cb2d" /> | <img alt="1직원메인화면" src="https://github.com/user-attachments/assets/16f32ca5-eece-44d5-978b-e2b8ec1eceaa" /> |
+| <img alt="1디지털추모관직원메인" src="https://github.com/user-attachments/assets/8a1518bc-9688-490e-8c9c-006b1a35bab1" /> | <img alt="2추모관상세페이지1" src="https://github.com/user-attachments/assets/10ae72f2-c53a-4060-9324-14cf946bd417" /> |
+| <img alt="1전환서비스메인" src="https://github.com/user-attachments/assets/efcf47fc-b1dc-48bc-8459-ee8a3c4ce03b" /> | <img alt="1대시보드메인" src="https://github.com/user-attachments/assets/e42dc974-09c9-42bb-b156-2c43034df4a4" /> | |
+| <img alt="2고객조회" src="https://github.com/user-attachments/assets/00891e8f-a70f-43b3-9140-4b9d1ef74c81" /> | <img alt="5장례서류관리" src="https://github.com/user-attachments/assets/59508511-02c2-495e-9264-e5e36f77d80c" /> | |
+
+
+
+
+
+
+
+
